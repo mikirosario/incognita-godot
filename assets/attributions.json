@@ -1,0 +1,18 @@
+{
+  "graphics": [
+	{
+	  "name": "Character Sprites",
+	  "author": "ELV Games",
+	  "source": "https://elvgames.itch.io/",
+	  "license": "https://elvgames.itch.io/terms"
+	}
+  ],
+  "audio": [
+	{
+	  "name": "Fading Stars",
+	  "author": "John Smith",
+	  "source": "johnsmithmusic.com",
+	  "license": "Custom Attribution License"
+	}
+  ]
+}
